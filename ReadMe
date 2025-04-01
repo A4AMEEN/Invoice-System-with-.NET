@@ -1,0 +1,5 @@
+i)Navigate to each of those Directries
+ii)In Angular first use Command npm install / npm i
+iii)In Server(.net) first use dotnet restore 
+iv)for Running server(.net) use command dotnet watch run 
+v)For running Angular(Practice) use ng s 
